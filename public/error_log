@@ -1,0 +1,6 @@
+[12-Apr-2021 04:54:18 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.1.24. in /home1/viionnet/cartify.viion.net/vendor/composer/platform_check.php on line 24
+[16-Jun-2021 11:47:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/viionnet/cartify.viion.net/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 776
+[16-Jun-2021 11:47:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/viionnet/cartify.viion.net/vendor/laravel/framework/src/Illuminate/Database/Grammar.php on line 97
+[16-Jun-2021 11:47:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/viionnet/cartify.viion.net/vendor/laravel/framework/src/Illuminate/Database/Grammar.php on line 100
+[16-Jun-2021 11:47:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/viionnet/cartify.viion.net/vendor/laravel/framework/src/Illuminate/Support/helpers.php on line 532
+[16-Jun-2021 11:48:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/viionnet/cartify.viion.net/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 214
